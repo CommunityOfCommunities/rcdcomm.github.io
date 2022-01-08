@@ -1,7 +1,7 @@
 # Site
 name: "RCD Communities of Communities"
 title: "RCD Communities of Communities"
-description: "Community of Communities (CoCo) is a working group that envisions connecting communities of RCD (Research Computing and Data, broadly defined) professionals, listed below, including other interested RCD groups who want to get involved, for activities that are of key relevance for RCD professionals. It advocates for the role of RCD professionals in a way that such professionals can find home organizations for themselves, exchange experiences and feel part of a community that values and incentivizes their work. The group works on mapping the RCD ecosystem and guiding people to suitable activities. CoCo was founded out of the Community of Communities Working Group from the CI Workforce Development Workshop 2020."
+description: "Community of Communities (CoCo) is a working group that envisions connecting communities of RCD (Research Computing and Data, broadly defined) professionals. It advocates for the role of RCD professionals in a way that such professionals can find home organizations for themselves, exchange experiences and feel part of a community that values and incentivizes their work. The group works on mapping the RCD ecosystem and guiding people to suitable activities. CoCo was founded out of the Community of Communities Working Group from the CI Workforce Development Workshop 2020."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
   #baseurl: /mediumish-theme-jekyll
