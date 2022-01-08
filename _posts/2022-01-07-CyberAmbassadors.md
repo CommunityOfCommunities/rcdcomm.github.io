@@ -18,7 +18,7 @@ The CyberAmbassador program provides professional skills training for technicall
 ### Activities: 
 Professional skills training in communication, teamwork, leadership, and workshop facilitation
    
- ### Services: 
+### Services: 
 * Free CyberAmbassador training  workshops to build communication, teamwork, and leadership skills are offered both in person and in live online sessions. A number of organizations regularly help to host these trainings, including Tau Beta Pi, Virtual Residency and CARCC. Training may also be available upon request depending on facilitator availability.
 * Free in person “train-the-trainers” workshops (application required) to prepare Trained Facilitators to offer the CyberAmbassadors curriculum for their own institutions, professional societies, and communities. These facilitator training workshops have been on hold due to the pandemic, but we hope to resume them in the summer of 2022. We are also exploring options for providing some aspects of facilitator training in virtual formats. 
 * All curriculum materials are being prepared and published under an open-source license and we expect they will be freely available upon request in 2022.
