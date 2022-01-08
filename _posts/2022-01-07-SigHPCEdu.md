@@ -5,7 +5,7 @@ title:  "SigHPCEdu"
 author: Dirk Colbry
 categories: [ Professonal Skills, Training Curriculum ]
 tags: []
-image: assests/images/SigHPCEdu.png
+image: assets/images/SigHPCEdu.png
 description: "The SIGHPC Education chapter has as its purpose the promotion of interest in and knowledge of applications of High Performance Computing (HPC) and computational science."
 hidden: false 
 ---
