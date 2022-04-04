@@ -9,7 +9,7 @@ image: assets/images/logo.png
 description: "Demo exmaple"
 hidden: false 
 ---
-
+ 
 Information about the group.
 
 1. Item one
