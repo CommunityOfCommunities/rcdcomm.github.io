@@ -774,7 +774,7 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
+        background-image: url(https://sciencegateways.org/app/site/media/images/headers/mini2022_conf.jpg);
         background-size: cover;
     }
 
@@ -792,7 +792,7 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
+    background-image: url(https://sciencegateways.org/app/site/media/images/headers/mini2022_conf.jpg);
     background-size: cover;
 }
 
